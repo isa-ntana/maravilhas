@@ -8,4 +8,6 @@ Machu Picchu, é uma cidade inca construída no século 15 - Peru.
 
 Chichén Itza, é uma cidade maia fundada por volta do século 7 a.C. - México.
 
+Coliseu de Roma, construído entre 1631 e 1653 - Italia.
+
 
